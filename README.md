@@ -24,5 +24,4 @@ This project recreates a modern homepage experience with smooth navigation, anim
 
 ---
 
-## 📂 Project Structure
 
